@@ -1,3 +1,5 @@
+package pl.szkolaTestow;
+
 public class CountryNotSupportedException extends RuntimeException {
 
     private String message;

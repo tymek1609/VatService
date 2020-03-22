@@ -1,4 +1,6 @@
-import Product.Product;
+package pl.szkolaTestow;
+
+import pl.szkolaTestow.Product.Product;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

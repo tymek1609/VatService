@@ -1,4 +1,4 @@
-package Vat;
+package pl.szkolaTestow.Vat;
 
 public class VatNotFoundException extends Exception {
     @Override

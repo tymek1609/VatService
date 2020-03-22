@@ -1,6 +1,6 @@
-package Vat;
+package pl.szkolaTestow.Vat;
 
-import Product.Type;
+import pl.szkolaTestow.Product.Type;
 
 import java.math.BigDecimal;
 import java.util.Objects;

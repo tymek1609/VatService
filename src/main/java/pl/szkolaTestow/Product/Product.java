@@ -1,4 +1,4 @@
-package Product;
+package pl.szkolaTestow.Product;
 
 import java.math.BigDecimal;
 import java.util.UUID;

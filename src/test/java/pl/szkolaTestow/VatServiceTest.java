@@ -1,7 +1,11 @@
-import Product.Product;
-import Product.Type;
+package pl.szkolaTestow;
+
+import pl.szkolaTestow.Product.Product;
+import pl.szkolaTestow.Product.Type;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
+import pl.szkolaTestow.VatProvider;
+import pl.szkolaTestow.VatService;
 
 import java.math.BigDecimal;
 import java.util.UUID;
